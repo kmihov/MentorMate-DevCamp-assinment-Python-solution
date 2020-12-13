@@ -1,4 +1,4 @@
-from project.no_solution_exists import NoSolutionExists
+from no_solution_exists import NoSolutionExists
 
 
 # Class is not instantiated but instead has only one purpose at this point,

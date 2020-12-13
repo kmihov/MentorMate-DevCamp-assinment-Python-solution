@@ -1,4 +1,4 @@
-from project.brick_constructor import BrickConstructor
+from brick_constructor import BrickConstructor
 
 
 # First layer class inherit another class which takes care of the second layer of brick

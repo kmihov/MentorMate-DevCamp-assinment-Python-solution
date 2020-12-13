@@ -1,4 +1,4 @@
-from project.first_layer import FirstLayer
+from first_layer import FirstLayer
 
 
 class Field:
