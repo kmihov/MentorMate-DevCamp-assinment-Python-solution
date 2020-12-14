@@ -2,7 +2,7 @@ from first_layer import FirstLayer
 
 
 class Field:
-    # R0w_input wee take the user input
+    # row_col takes the user input for rows and cols
     row_col = list(map(int, input().split()))
     # User input will be split between rows and cols to be used in building the area of bricks
     rows = row_col[0]
